@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/django-rest-shop.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+shop/db.sqlite3
+shop/manage.py
+shop/myshop/__init__.py
+shop/myshop/admin.py
+shop/myshop/apps.py
+shop/myshop/migrations/
+shop/myshop/models.py
+shop/myshop/tests.py
+shop/myshop/views.py
+shop/shop/
